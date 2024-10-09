@@ -1,0 +1,1 @@
+master_device_id=75d7e4d3-0a29-4f45-89c2-6ce13cf412eb; is_shopify_merchant=1; _shopify_s=3170a409-41CE-4E8C-2F7A-D01B1E73317A; _shopify_y=ea03bdf5-0C1A-4074-EF32-53AC0311E542; logged_in=true; koa.sid=FLEqlRS2tfYa0z5EQvwUyeQ21PMMjpWr; koa.sid.sig=6HKsqbNy2fDm0c4RN2FkR-7Fu6M

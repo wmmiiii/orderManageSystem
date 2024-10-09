@@ -1,0 +1,66 @@
+{
+        "id": 12013975830695,
+        "admin_graphql_api_id": "gid://shopify/LineItem/12013975830695",
+        "fulfillable_quantity": 1,
+        "fulfillment_service": "manual",
+        "fulfillment_status": null,
+        "gift_card": false,
+        "grams": 0,
+        "name": "\"Llevaré tu imagen conmigo\" collar Corazón de diamantes - Oro Rosa",
+        "origin_location": {
+            "id": 3513306677415,
+            "country_code": "MX",
+            "province_code": "Q ROO",
+            "name": "Haciendas Del Caribe Zm 200 Mz. 90",
+            "address1": "Haciendas Del Caribe Zm 200 Mz. 90",
+            "address2": "Casa #1566-A",
+            "city": "Benito Juárez",
+            "zip": "77539"
+        },
+        "price": "589.00",
+        "price_set": {
+            "shop_money": {
+                "amount": "589.00",
+                "currency_code": "MXN"
+            },
+            "presentment_money": {
+                "amount": "589.00",
+                "currency_code": "MXN"
+            }
+        },
+        "product_exists": true,
+        "product_id": 7364750344359,
+        "properties": [
+            {
+                "name": "Carga tu imagen ",
+                "value": "https://upload.cloudlift.app/s/alanna-mx/FCbTQOPFsn.png"
+            },
+            {
+                "name": "thumbnail",
+                "value": "https://upload.cloudlift.app/s/alanna-mx/E0cLSl0t4y.png"
+            }
+        ],
+        "quantity": 1,
+        "requires_shipping": true,
+        "sku": "",
+        "taxable": false,
+        "title": "\"Llevaré tu imagen conmigo\" collar Corazón de diamantes",
+        "total_discount": "0.00",
+        "total_discount_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "MXN"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "MXN"
+            }
+        },
+        "variant_id": 42896106127527,
+        "variant_inventory_management": "shopify",
+        "variant_title": "Oro Rosa",
+        "vendor": "Alanna Mx ",
+        "tax_lines": [],
+        "duties": [],
+        "discount_allocations": []
+    }
