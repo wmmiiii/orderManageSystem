@@ -1,4 +1,4 @@
 
-# Haikus for Codespaces
+# 大学时期边学习PyQt5边写的一个项目
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+使用pyqt5编写界面程序，再使用爬虫库从shopify电商网站爬取订单信息存储到数据库，并展示到界面上，获取产品图片，使用opencv-python，多线程批量处理图片，难点是爬取订单信息时需要过cloudflare5秒盾
